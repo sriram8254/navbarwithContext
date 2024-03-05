@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.not-found-img {
+  width: 300px;
+}
+
+.not-found-heading {
+  font-weight: normal;
+  font-size: 40px;
+  margin-top: 0px;
+  color: #1e293b;
+  font-weight: 'Roboto';
+}
+
+.not-found-desc {
+  color: #64748b;
+  font-family: 'Roboto';
+}
+
+.light-dark-css-head-not-found {
+  color: white;
+}
+
+.not-found-bg-css {
+  background-color: black;
+}
